@@ -1,5 +1,4 @@
-# Notebook Title
-Neural Networks in the NBA
+# Neural Networks in the NBA
 ## Overview
 This repository holds my final year Data Science Individual Project (dissertation). I experiment with Neural Networks and Multivariate Logistical Regression to assess if ML is capable of being used within the NBA draft
 
