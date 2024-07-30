@@ -1,4 +1,4 @@
-# Neural Networks in the NBA
+# Can Deep Learning be used to effectivley forcast the performance of aspiring NBA draft picks?
 ## Overview
 This repository holds my final year Data Science Individual Project (dissertation). I experiment with Neural Networks and Multivariate Logistical Regression to assess if ML is capable of being used within the NBA draft
 
